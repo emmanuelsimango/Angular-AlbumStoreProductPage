@@ -1,7 +1,6 @@
 import { Album } from './../album';
 import { Component, OnInit } from '@angular/core';
 import { Http } from '@angular/http';
-import { Album } from '../album';
 import { ProductService } from '../product.service';
 
 
